@@ -5,7 +5,7 @@
 ## 🏆 Результаты
 
 - **Best RMSE**: 0.124
-- **Top % на Kaggle**: 570 место (27.08.25)
+- **Top % на Kaggle**: 13% (27.08.25)
 - **Модель**: CatBoostRegressor
 - **Метрика**: Root Mean Squared Log Error (RMSLE)
 
