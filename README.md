@@ -5,7 +5,8 @@
 ## Список проектов
 
 1. [Titanic: Machine Learning from Disaster](./titanic/README.md)
-2. House Price Prediction (в разработке)
+2. [House Price Prediction](./house_price/README.md)
+3. 
 
 ---
 
