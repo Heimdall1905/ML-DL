@@ -10,7 +10,7 @@
 ![Датасет](./images/characters_illustration.png)
 
 ## Следующие задачи:
-1. Качественное TL ResNet18
+1. TL ResNet18
 2. TTA
 
 
